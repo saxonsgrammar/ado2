@@ -1,0 +1,10 @@
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\bin\Debug\ado2.exe.config
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\bin\Debug\ado2.exe
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\bin\Debug\ado2.pdb
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\obj\Debug\ado2.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\obj\Debug\ado2.Form1.resources
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\obj\Debug\ado2.Properties.Resources.resources
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\obj\Debug\ado2.csproj.GenerateResource.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\obj\Debug\ado2.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\obj\Debug\ado2.exe
+C:\Users\Mcintosh\Downloads\ADO_Net\2\ado2\obj\Debug\ado2.pdb
